@@ -53,7 +53,7 @@
 
 ## 🚀 You can check the Live Demo here<a name="live-demo"></a>
 
-[BuWeather Live Demo](https://aiprof.onrender.com/) 
+[AiProf Live Demo](https://aiprof.onrender.com/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
