@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Project Cogni | README </h1>
+  <h1> Project AiProf | README </h1>
   <br/>
 </div>
 <a name="readme-top"></a>
@@ -25,8 +25,8 @@
 - [📝 License](#license)
 
 
-# Project Cogni  <a name="about-project"></a>
-**Project Cogni** is a Education Platform project where you'll be learning with the help of AI.
+# AiProf  <a name="about-project"></a>
+**AiProf** is a Education Platform project where you'll be learning with the help of AI.
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -48,6 +48,13 @@
 - **Assesment Platform**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- LIVE DEMO -->
+
+## 🚀 You can check the Live Demo here<a name="live-demo"></a>
+
+[BuWeather Live Demo](https://aiprof.onrender.com/) 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -65,8 +72,8 @@ Example commands:
   
   ```
     cd my-folder 
-    git clone https://github.com/ibugithub/Cogni
-    cd Cogni
+    git clone https://github.com/Play2HelpWorld-com/AiProf
+    cd AiProf
   ```
 
 
@@ -116,7 +123,7 @@ You can deploy this project using:
 
 ## 🤝 Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/ibugithub/Cogni/issues).
+Feel free to check the [issues page](https://github.com/ibugithub/AiProf/issues).
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -132,7 +139,7 @@ If you like this project please try to contribute or rate it or put a comment
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank to my coding partners.
+I would like to thank to my Team mates.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -140,7 +147,7 @@ I would like to thank to my coding partners.
 
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
